@@ -8,7 +8,7 @@ Computer Science student at **California State University, Long Beach** (graduat
 |---|---|---|
 | [**TaskForge**](https://github.com/AddysEdge/Task_forge) | Distributed job platform: an API and 2 workers that survive crashes and duplicate messages; 160 automated tests, CI on every push | Java 21, Spring Boot, PostgreSQL, Kafka, Redis, Docker |
 | [**DeployGuard**](https://github.com/AddysEdge/deployguard) | CI release gate that compares a new API release against the current one and fails the build on response or p95 latency regressions | Go, GitHub Actions |
-| [**FaceAuth**](https://github.com/AddysEdge/ai-face-auth) | Offline face authentication on a CPU with blink liveness and encrypted templates | Python, OpenCV, ONNX Runtime, MediaPipe |
+| [**FaceAuth**](https://github.com/AddysEdge/ai-face-auth) | Offline face authentication on a CPU with blink liveness and encrypted templates; 650 automated tests in CI | Python, OpenCV, ONNX Runtime, MediaPipe |
 | [**Interface Lab**](https://github.com/AddysEdge/interface-lab) | Full-stack site for sharing UI components, with live sandboxed previews | Next.js, React, Clerk, Supabase |
 
 ### Tools I use
