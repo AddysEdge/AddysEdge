@@ -18,7 +18,11 @@ I'm also an undergraduate research assistant working on multithreaded performanc
 
 ### Try a project
 
-DeployGuard's fixture demo needs Go 1.27+, Bash and curl; no API keys or database:
+[Download DeployGuard](https://github.com/AddysEdge/deployguard/releases/latest) for Linux,
+macOS or Windows. Each bundle includes the CLI, a fixture server and a sample workload;
+no Go installation, API key or database is needed.
+
+To build and run the demo from source, use Go 1.27+, Bash and curl:
 
 ```bash
 git clone https://github.com/AddysEdge/deployguard.git
