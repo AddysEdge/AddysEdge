@@ -16,6 +16,12 @@ I'm also an undergraduate research assistant working on multithreaded performanc
 | [**FaceAuth**](https://github.com/AddysEdge/ai-face-auth) | Offline CPU face-authentication research prototype: frame-quality checks, blink liveness and encrypted templates. [Tests](https://github.com/AddysEdge/ai-face-auth/actions/workflows/ci.yml) and [security analysis](https://github.com/AddysEdge/ai-face-auth/actions/workflows/codeql.yml). | Python, OpenCV, ONNX Runtime, LiteRT |
 | [**Interface Lab**](https://github.com/AddysEdge/interface-lab) | UI component sharing with an editor, sandboxed previews, authentication, likes and threaded comments. | Next.js, React, Clerk, Supabase |
 
+### Engineering case studies
+
+- [TaskForge: recovering work after a process crash](projects/taskforge.md)
+- [DeployGuard: making an API regression block a release](projects/deployguard.md)
+- [FaceAuth: checking privacy boundaries in a local prototype](projects/faceauth.md)
+
 ### Try a project
 
 [Download DeployGuard](https://github.com/AddysEdge/deployguard/releases/latest) for Linux,
