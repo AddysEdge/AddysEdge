@@ -33,6 +33,8 @@ thresholds to be breached. These are operational thresholds, not a statistical s
 
 ## Evidence
 
+[View a recorded demo and its unedited reports](https://github.com/AddysEdge/deployguard/tree/main/docs/demo).
+
 The [published-binary demo](https://github.com/AddysEdge/deployguard/actions/workflows/published-demo.yml)
 downloads a checksummed release and runs that executable against two small loopback APIs.
 Harmless JSON key reordering must pass; removing an email field must fail and be identified in the report.
