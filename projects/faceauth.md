@@ -1,4 +1,4 @@
-# FaceAuth: checking privacy boundaries in a local prototype
+# AI Face Authentication: checking privacy boundaries in a local prototype
 
 [Source](https://github.com/AddysEdge/ai-face-auth) · [Tests](https://github.com/AddysEdge/ai-face-auth/actions/workflows/ci.yml) · [CodeQL](https://github.com/AddysEdge/ai-face-auth/actions/workflows/codeql.yml)
 
